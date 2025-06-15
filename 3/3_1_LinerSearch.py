@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-_noData = -1
+_noData = -1 # 見つからなかった場合の値
 
 def linear_search_v1():
     
